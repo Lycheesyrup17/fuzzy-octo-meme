@@ -18,6 +18,7 @@ This repository contains the analysis project to determine factors influencing S
 
 ## Repository Structure
 - `EDA Using Pandas and Matplotlib.ipynb`: Exploratory Data Analysis notebook
+- `Presentation Report_DataScience Capstone_Coursera_Abdul Ibrahim.pdf`: Full Presentation report 
 - `Interactive Visual Launch Sites Locations Map ...`: Interactive visualization of launch sites
 - `SpaceX_Machine Learning Prediction_Part_5.ipynb`: Machine learning prediction notebook
 - `jupyter-labs-eda-sql-coursera_sqlite.ipynb`: SQL-based exploratory data analysis
